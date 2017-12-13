@@ -55,5 +55,13 @@ public class App {
         System.out.println(villes.size()); // 2
 
         // i n'est plus accessible ici
+
+
+        int addition = 2 + 3;
+
+    }
+
+    public static int addition(int unEntier, int unAutreEntier) {
+        return unEntier + unAutreEntier;
     }
 }
