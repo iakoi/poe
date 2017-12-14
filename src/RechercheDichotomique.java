@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class TriDichotomique {
+public class RechercheDichotomique {
 
     public static void main(String[] args) {
         int valeurRecherchee = 101;
